@@ -1,0 +1,14 @@
+{
+    "name": "lanmultiplayer",
+    "description": "A LAN multiplayer extension using WebRTC for MakeCode Arcade",
+    "version": "0.0.1",
+    "files": [
+      "extension.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+      "arcade"
+    ],
+    "dependencies": {}
+  }
+  
