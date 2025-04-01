@@ -3,7 +3,11 @@
         "target": "ES5",
         "noImplicitAny": true,
         "outDir": "built",
-        "rootDir": "."
+        "rootDir": ".",
+        "lib": [
+            "es2015",
+            "dom"
+        ],
     },
     "include": [
         "**/*.ts"
